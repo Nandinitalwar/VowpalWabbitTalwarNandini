@@ -1,4 +1,4 @@
-# VowpalWabbitTalwarNandini
+# Vowpal Wabbit 2022 Submission
 Submission for Vowpal Wabbit
 
 I’m excited to tackle two specific compiler optimization tasks:
